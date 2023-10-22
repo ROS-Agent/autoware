@@ -24,7 +24,7 @@ repositories:
   universe/autoware.universe:
     type: git
     url: https://github.com/autowarefoundation/autoware.universe.git
-    version: galactic
+    version: feature/bev
   universe/external/open_planner:
     type: git
     url: https://github.com/ZATiTech/open_planner.git
